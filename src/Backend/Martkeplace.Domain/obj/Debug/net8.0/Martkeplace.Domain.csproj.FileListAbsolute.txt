@@ -1,0 +1,12 @@
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Martkeplace.Domain.deps.json
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Martkeplace.Domain.dll
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Martkeplace.Domain.pdb
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Martkeplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Martkeplace.Domain.AssemblyInfoInputs.cache
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Martkeplace.Domain.AssemblyInfo.cs
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Martkeplace.Domain.csproj.CoreCompileInputs.cache
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Martkeplace.Domain.dll
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\refint\Martkeplace.Domain.dll
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Martkeplace.Domain.pdb
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\ref\Martkeplace.Domain.dll
+P:\Borderless\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Martkeplace.Domain.csproj.AssemblyReference.cache
