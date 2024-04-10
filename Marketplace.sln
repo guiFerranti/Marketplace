@@ -11,17 +11,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{61A8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{DB6CD13D-5142-4E50-AB48-E6A98B25A07E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Communication", "src\Shared\Marketplace.Communication\Marketplace.Communication.csproj", "{2D1942E3-66EC-4BF6-90A3-CA7FF1A8EB37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Communication", "src\Shared\Marketplace.Communication\Marketplace.Communication.csproj", "{2D1942E3-66EC-4BF6-90A3-CA7FF1A8EB37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Exceptions", "src\Shared\Marketplace.Exceptions\Marketplace.Exceptions.csproj", "{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Exceptions", "src\Shared\Marketplace.Exceptions\Marketplace.Exceptions.csproj", "{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martkeplace.Domain", "src\Backend\Martkeplace.Domain\Martkeplace.Domain.csproj", "{D53FF813-F6AC-4C69-B79A-E4987A5631C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Domain", "src\Backend\Martkeplace.Domain\Marketplace.Domain.csproj", "{D53FF813-F6AC-4C69-B79A-E4987A5631C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Application", "src\Backend\Marketplace.Application\Marketplace.Application.csproj", "{36384F0F-EC20-47A3-B88D-563077FFEF53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Application", "src\Backend\Marketplace.Application\Marketplace.Application.csproj", "{36384F0F-EC20-47A3-B88D-563077FFEF53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Infrastructure", "src\Backend\Marketplace.Infrastructure\Marketplace.Infrastructure.csproj", "{34E4598E-BD4A-497E-8A55-17E0FEE807ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Infrastructure", "src\Backend\Marketplace.Infrastructure\Marketplace.Infrastructure.csproj", "{34E4598E-BD4A-497E-8A55-17E0FEE807ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Api", "src\Backend\Marketplace.Api\Marketplace.Api.csproj", "{46DEF45F-4701-4229-8539-9DFC4443E26E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Api", "src\Backend\Marketplace.Api\Marketplace.Api.csproj", "{46DEF45F-4701-4229-8539-9DFC4443E26E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

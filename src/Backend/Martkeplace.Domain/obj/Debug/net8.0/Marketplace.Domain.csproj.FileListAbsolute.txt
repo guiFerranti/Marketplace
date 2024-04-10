@@ -1,0 +1,26 @@
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Marketplace.Domain.deps.json
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Marketplace.Domain.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Marketplace.Domain.pdb
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.csproj.AssemblyReference.cache
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.AssemblyInfoInputs.cache
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.AssemblyInfo.cs
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.sourcelink.json
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\refint\Marketplace.Domain.dll
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.pdb
+D:\Arquivos Projetos\marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\ref\Marketplace.Domain.dll
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.csproj.AssemblyReference.cache
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.AssemblyInfoInputs.cache
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.AssemblyInfo.cs
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.csproj.CoreCompileInputs.cache
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.sourcelink.json
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.dll
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\refint\Marketplace.Domain.dll
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\Marketplace.Domain.pdb
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Marketplace.Domain.deps.json
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Marketplace.Domain.dll
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\bin\Debug\net8.0\Marketplace.Domain.pdb
+P:\Borderless\new\Marketplace\src\Backend\Martkeplace.Domain\obj\Debug\net8.0\ref\Marketplace.Domain.dll

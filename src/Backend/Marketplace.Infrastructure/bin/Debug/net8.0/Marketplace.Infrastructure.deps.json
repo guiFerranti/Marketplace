@@ -11,7 +11,7 @@
           "Dapper": "2.1.28",
           "FluentMigrator": "5.0.0",
           "FluentMigrator.Runner": "5.0.0",
-          "Martkeplace.Domain": "1.0.0",
+          "Marketplace.Domain": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore": "8.0.1",
           "Microsoft.Extensions.DependencyInjection": "8.0.0",
@@ -874,12 +874,12 @@
           }
         }
       },
-      "Martkeplace.Domain/1.0.0": {
+      "Marketplace.Domain/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration": "8.0.0"
         },
         "runtime": {
-          "Martkeplace.Domain.dll": {}
+          "Marketplace.Domain.dll": {}
         }
       }
     }
@@ -1457,7 +1457,7 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
-    "Martkeplace.Domain/1.0.0": {
+    "Marketplace.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

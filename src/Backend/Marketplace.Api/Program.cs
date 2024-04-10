@@ -1,8 +1,14 @@
+using Marketplace.Application;
+using Marketplace.Application.Services.AutoMapper;
 using Marketplace.Infrastructure.Migrations;
-using Marketplace.Infrastructurel;
-using Martkeplace.Domain.Extension;
+using Marketplace.Domain.Extension;
+using Marketplace.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// route lower case 
+
+builder.Services.AddRouting(opt => opt.LowercaseUrls = true);
 
 // Add services to the container.
 
@@ -13,8 +19,21 @@ builder.Services.AddSwaggerGen();
 
 // custom services
 
-builder.Services.AddRepository(builder.Configuration);
+// auto mapper
 
+builder.Services.AddScoped(prov => new AutoMapper.MapperConfiguration(cfg =>
+{
+    cfg.AddProfile(new AutoMapperConfig());
+}).CreateMapper());
+
+// repository
+
+
+// bootstrapper application
+
+builder.Services.AddingInfrastructure(builder.Configuration);
+
+builder.Services.AddApplication(builder.Configuration);
 
 
 var app = builder.Build();

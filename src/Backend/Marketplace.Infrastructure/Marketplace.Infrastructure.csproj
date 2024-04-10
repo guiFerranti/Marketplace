@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Martkeplace.Domain\Martkeplace.Domain.csproj" />
+    <ProjectReference Include="..\Martkeplace.Domain\Marketplace.Domain.csproj" />
   </ItemGroup>
 
 </Project>

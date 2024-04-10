@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t05LluzMIN6BsqPCa+V1zvvDBbBXhSfyzH8iwQsFiA+p2bDbYTS6tSxB27x+fJAWzpoYT419RVNrq9DHXYjImQ==",
+  "dgSpecHash": "O0KYzqR/BOi4on/VSruggw5T+W2kmfIF177SSLu0ksWyprVS43OnA2CLwO2zlBrYg8sirZ90WF//BXfIUnuGAQ==",
   "success": true,
-  "projectFilePath": "P:\\Borderless\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+  "projectFilePath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

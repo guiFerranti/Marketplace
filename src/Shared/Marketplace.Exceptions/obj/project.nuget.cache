@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fLgAGLQXy7DVjLt9YdHq/10vDsC6EeBijlYRYmE31vtNBs9qj0NV5w6Rs8qDZ8bnKwoM6qy0NEbhcbUgvI+kAA==",
+  "dgSpecHash": "Dox/w0lm63iwT2X3N/nRfe/+TOuJdBA8NDbm3yvfdWmnJ1cetcHKeXRCEOh9ncpSXuTqPusTvjaAFpuqBH9gvg==",
   "success": true,
-  "projectFilePath": "P:\\Borderless\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+  "projectFilePath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

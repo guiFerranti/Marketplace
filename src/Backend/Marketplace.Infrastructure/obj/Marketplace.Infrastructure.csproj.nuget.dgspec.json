@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {}
+    "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {}
   },
   "projects": {
-    "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+    "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectUniqueName": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
         "projectName": "Marketplace.Infrastructure",
-        "projectPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
+        "outputPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj": {
-                "projectPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj"
+              "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
               }
             }
           }
@@ -42,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -101,18 +106,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj": {
+    "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj",
-        "projectName": "Martkeplace.Domain",
-        "projectPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj",
+        "projectUniqueName": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+        "projectName": "Marketplace.Domain",
+        "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
+        "outputPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -139,6 +144,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -166,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

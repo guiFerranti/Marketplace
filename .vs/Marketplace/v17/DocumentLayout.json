@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Borderless\\new\\Marketplace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36384F0F-EC20-47A3-B88D-563077FFEF53}|src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\marketplace.application\\usecases\\user\\signup\\signupvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36384F0F-EC20-47A3-B88D-563077FFEF53}|src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj|solutionrelative:src\\backend\\marketplace.application\\usecases\\user\\signup\\signupvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}|src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj|p:\\borderless\\new\\marketplace\\src\\shared\\marketplace.exceptions\\marketplace.exceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}|src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj|solutionrelative:src\\shared\\marketplace.exceptions\\marketplace.exceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}|src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj|p:\\borderless\\new\\marketplace\\src\\shared\\marketplace.exceptions\\exceptionsbase\\logininvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}|src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj|solutionrelative:src\\shared\\marketplace.exceptions\\exceptionsbase\\logininvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}|src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj|p:\\borderless\\new\\marketplace\\src\\shared\\marketplace.exceptions\\exceptionsbase\\marketplaceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}|src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj|solutionrelative:src\\shared\\marketplace.exceptions\\exceptionsbase\\marketplaceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}|src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj|p:\\borderless\\new\\marketplace\\src\\shared\\marketplace.exceptions\\exceptionsbase\\errosdevalidacaoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D43367-2368-4AB1-8B22-F83CC48E7BC0}|src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj|solutionrelative:src\\shared\\marketplace.exceptions\\exceptionsbase\\errosdevalidacaoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\marketplace.infrastructure\\bootstraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|solutionrelative:src\\backend\\marketplace.infrastructure\\bootstraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DEF45F-4701-4229-8539-9DFC4443E26E}|src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\marketplace.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DEF45F-4701-4229-8539-9DFC4443E26E}|src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj|solutionrelative:src\\backend\\marketplace.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36384F0F-EC20-47A3-B88D-563077FFEF53}|src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\marketplace.application\\usecases\\user\\signup\\signupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36384F0F-EC20-47A3-B88D-563077FFEF53}|src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj|solutionrelative:src\\backend\\marketplace.application\\usecases\\user\\signup\\signupusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\marketplace.infrastructure\\repositoryaccess\\workunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|solutionrelative:src\\backend\\marketplace.infrastructure\\repositoryaccess\\workunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\marketplace.infrastructure\\repositoryaccess\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E4598E-BD4A-497E-8A55-17E0FEE807ED}|src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj|solutionrelative:src\\backend\\marketplace.infrastructure\\repositoryaccess\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53FF813-F6AC-4C69-B79A-E4987A5631C7}|src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\martkeplace.domain\\repository\\user\\iuserwriteonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53FF813-F6AC-4C69-B79A-E4987A5631C7}|src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj|solutionrelative:src\\backend\\martkeplace.domain\\repository\\user\\iuserwriteonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53FF813-F6AC-4C69-B79A-E4987A5631C7}|src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\martkeplace.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53FF813-F6AC-4C69-B79A-E4987A5631C7}|src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj|solutionrelative:src\\backend\\martkeplace.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DEF45F-4701-4229-8539-9DFC4443E26E}|src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj|p:\\borderless\\new\\marketplace\\src\\backend\\marketplace.api\\marketplace.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46DEF45F-4701-4229-8539-9DFC4443E26E}|src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj|solutionrelative:src\\backend\\marketplace.api\\marketplace.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignupValidator.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupValidator.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupValidator.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupValidator.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:08:34.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marketplace.Exceptions",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+              "RelativeDocumentMoniker": "src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj*",
+              "RelativeToolTip": "src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T01:02:47.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarketplaceException.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\MarketplaceException.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\MarketplaceException.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\MarketplaceException.cs*",
+              "RelativeToolTip": "src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\MarketplaceException.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:01:34.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginInvalidoException.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\LoginInvalidoException.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\LoginInvalidoException.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\LoginInvalidoException.cs*",
+              "RelativeToolTip": "src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\LoginInvalidoException.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:01:29.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrosDeValidacaoException.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\ErrosDeValidacaoException.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\ErrosDeValidacaoException.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\ErrosDeValidacaoException.cs*",
+              "RelativeToolTip": "src\\Shared\\Marketplace.Exceptions\\ExceptionsBase\\ErrosDeValidacaoException.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:59:24.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Api\\Program.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\Program.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Api\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:28:58.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignupUseCase.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupUseCase.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupUseCase.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Application\\UseCases\\User\\Signup\\SignupUseCase.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:28:04.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkUnity.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\WorkUnity.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\WorkUnity.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\WorkUnity.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\WorkUnity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:27:58.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\Repository\\UserRepository.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Infrastructure\\RepositoryAccess\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:27:32.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bootstraper.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Bootstraper.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Infrastructure\\Bootstraper.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Bootstraper.cs",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Infrastructure\\Bootstraper.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:27:10.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Martkeplace.Domain\\Entity\\User.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Entity\\User.cs",
+              "RelativeToolTip": "src\\Backend\\Martkeplace.Domain\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:26:19.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserWriteOnlyRepository.cs",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Repository\\User\\IUserWriteOnlyRepository.cs",
+              "RelativeDocumentMoniker": "src\\Backend\\Martkeplace.Domain\\Repository\\User\\IUserWriteOnlyRepository.cs",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Repository\\User\\IUserWriteOnlyRepository.cs",
+              "RelativeToolTip": "src\\Backend\\Martkeplace.Domain\\Repository\\User\\IUserWriteOnlyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:25:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Marketplace.Api",
+              "DocumentMoniker": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
+              "ToolTip": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
+              "RelativeToolTip": "src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T00:22:26.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

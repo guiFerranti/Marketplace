@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj": {}
+    "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj": {}
   },
   "projects": {
-    "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj": {
+    "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
+        "projectUniqueName": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
         "projectName": "Marketplace.Api",
-        "projectPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
+        "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\Marketplace.Api.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Api\\obj\\",
+        "outputPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
-                "projectPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
+              "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj"
               },
-              "P:\\Borderless\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
-                "projectPath": "P:\\Borderless\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
+              "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
+              },
+              "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
               }
             }
           }
@@ -45,6 +48,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -75,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+    "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
-        "projectName": "Marketplace.Infrastructure",
-        "projectPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectUniqueName": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
+        "projectName": "Marketplace.Application",
+        "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\Marketplace.Application.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
+        "outputPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,8 +115,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj": {
-                "projectPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj"
+              "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj"
+              },
+              "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
+              },
+              "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj"
+              },
+              "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj"
               }
             }
           }
@@ -117,6 +134,93 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "projectName": "Marketplace.Infrastructure",
+        "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\Marketplace.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
+        "outputPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Marketplace.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
+                "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -176,18 +280,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj": {
+    "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj",
-        "projectName": "Martkeplace.Domain",
-        "projectPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Martkeplace.Domain.csproj",
+        "projectUniqueName": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
+        "projectName": "Marketplace.Domain",
+        "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\Marketplace.Domain.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\Borderless\\Marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
+        "outputPath": "P:\\Borderless\\new\\Marketplace\\src\\Backend\\Martkeplace.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -214,6 +318,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -241,18 +350,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "P:\\Borderless\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
+    "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Borderless\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+        "projectUniqueName": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
         "projectName": "Marketplace.Communication",
-        "projectPath": "P:\\Borderless\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
+        "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\Marketplace.Communication.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "P:\\Borderless\\Marketplace\\src\\Shared\\Marketplace.Communication\\obj\\",
+        "outputPath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -279,6 +388,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -300,7 +414,71 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+        "projectName": "Marketplace.Exceptions",
+        "projectPath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\Marketplace.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
+        "outputPath": "P:\\Borderless\\new\\Marketplace\\src\\Shared\\Marketplace.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
